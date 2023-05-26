@@ -12,3 +12,6 @@
 
 
 ## Sections:
+    1. History of Unix and Linux
+        1.1 History of the C programming Language
+        1.2 Introduction to the C programming Language
